@@ -11,7 +11,7 @@ import seaborn as sns
 st.set_page_config(
     page_title="Customer Segmentation App",
     layout="wide",
-    page_icon="pari_logo(1).png"   # <-- add this line
+    page_icon="favicon.png"   # <-- add this line
 )
 
 st.set_page_config(page_title="Customer Segmentation App", layout="wide")
